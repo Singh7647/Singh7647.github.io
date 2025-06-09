@@ -6,7 +6,7 @@ plugins:
   - jekyll-seo-tag
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://anishacharya.github.io"
+url: "http://singh7647.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -16,8 +16,8 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Anish Acharya, PhD 
-description: "Senior Research Scientist @Amazon"
+title: Adarsh Singh, MS in CS
+description: "Researcher @CoRAL LAb Arizona State University"
 # Short description of your site
 
 # --- Navigation bar options --- #
@@ -27,7 +27,7 @@ navbar-links:
    # Bio: "bio"
    # Bio: "aboutme"
    # Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
-   Resume: "https://drive.google.com/file/d/14zCtVrJVr9EnM6YR8DAx-XItRokFhaHR/view?usp=sharing"
+   Resume: "https://drive.google.com/file/d/1x43N7UvVRQWnzgO-BfGItICIh271tyBh/view?usp=sharing"
    Publications: "publications"
    Talks: "talks"
    Press: "press"   
@@ -97,11 +97,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "anishacharya@utexas.edu"
-  github: anishacharya
-  linkedin: anish-acharya-a98a9383
-  facebook: anish.acharya.94
-  instagram: anishacharya91
+  email: "asing725@asu.edu"
+  github: Singh7647
+  linkedin: adarshsingh7647
+  # facebook: anish.acharya.94
+  instagram: adarsh.yeager
   twitter: AnishAc10645870
 #  reddit: yourname
 #  google-plus: +DeanAttali
